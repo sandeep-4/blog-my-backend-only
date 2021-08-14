@@ -7,7 +7,7 @@ const sendEmail = async (options) => {
     service: "gmail",
     auth: {
       user: "springboottest123@gmail.com",
-      pass: "spring@123",
+      pass: "idkpassword",
     },
   });
   const message = {
